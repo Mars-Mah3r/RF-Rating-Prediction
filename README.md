@@ -7,6 +7,17 @@ This repository documents the steps I took to train a Random-Forest Model on a C
 Number of Entries: 2,434 rows
 Number of Columns: 30 features
 
+## Requirements
+```
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+sklearn
+```
+
+
 ### Data Types
 **Categorical Features:** 
 - Rating
