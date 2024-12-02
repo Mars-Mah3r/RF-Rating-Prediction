@@ -15,6 +15,8 @@ matplotlib
 seaborn
 scipy
 sklearn
+shap
+imblearn
 ```
 
 
